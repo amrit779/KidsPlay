@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ava.kidsplay" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_a"
+            android:label="@string/title_activity_activity_a" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_a" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_b"
+            android:label="@string/title_activity_activity_b" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_b" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_c"
+            android:label="@string/title_activity_activity_c" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_c" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_d"
+            android:label="@string/title_activity_activity_d" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_d" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_e"
+            android:label="@string/title_activity_activity_e" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_e" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_f"
+            android:label="@string/title_activity_activity_f" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_f" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_g"
+            android:label="@string/title_activity_activity_g" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_g" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_h"
+            android:label="@string/title_activity_activity_h" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_h" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_i"
+            android:label="@string/title_activity_activity_i" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_i" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_j"
+            android:label="@string/title_activity_activity_j" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_j" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_k"
+            android:label="@string/title_activity_activity_k" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_k" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_l"
+            android:label="@string/title_activity_activity_l" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_l" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_m"
+            android:label="@string/title_activity_activity_m" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_m" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_n"
+            android:label="@string/title_activity_activity_n" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_n" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_o"
+            android:label="@string/title_activity_activity_o" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_o" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_p"
+            android:label="@string/title_activity_activity_p" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_p" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_q"
+            android:label="@string/title_activity_activity_q" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_q" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_r"
+            android:label="@string/title_activity_activity_r" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_r" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_s"
+            android:label="@string/title_activity_activity_s" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_s" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_t"
+            android:label="@string/title_activity_activity_t" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_t" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_u"
+            android:label="@string/title_activity_activity_u" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_u" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_v"
+            android:label="@string/title_activity_activity_v" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_v" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_w"
+            android:label="@string/title_activity_activity_w" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_w" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_x"
+            android:label="@string/title_activity_activity_x" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_x" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_y"
+            android:label="@string/title_activity_activity_y" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_y" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_z"
+            android:label="@string/title_activity_activity_z" >
+            <intent-filter>
+                <action android:name="com.ava.kidsplay.activity_z" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
